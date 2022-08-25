@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Tam,
 
-![image](https://user-images.githubusercontent.com/108637339/186658420-7caf4655-6585-40bd-8c09-a9d2fee3ee65.png)
+I am an enthusiastic Data Scientist and BI Analyst, who is ever learning
+I work with languages like R and Python and use tools like Power BI
+
 
 
 <!--
