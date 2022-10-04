@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Tam,
 
-I am an enthusiastic Data Scientist and BI Analyst, who is ever learning.
-I work with languages like R and Python and use tools like Power BI.
+I am an enthusiastic Data Analyst and BI Analyst, who is ever learning.
+I work with languages like R, Python and SQL. I use tools like Power BI.
 
 ![image](https://user-images.githubusercontent.com/108637339/186668287-bd76311a-c1ad-428f-ad72-5ea1ab044f54.png)
 
